@@ -1,0 +1,15 @@
+C:\Users\Usuario\mi-primer-repositorio\MiTester\bin\Debug\net9.0\MiTester.exe
+C:\Users\Usuario\mi-primer-repositorio\MiTester\bin\Debug\net9.0\MiTester.deps.json
+C:\Users\Usuario\mi-primer-repositorio\MiTester\bin\Debug\net9.0\MiTester.runtimeconfig.json
+C:\Users\Usuario\mi-primer-repositorio\MiTester\bin\Debug\net9.0\MiTester.dll
+C:\Users\Usuario\mi-primer-repositorio\MiTester\bin\Debug\net9.0\MiTester.pdb
+C:\Users\Usuario\mi-primer-repositorio\MiTester\obj\Debug\net9.0\MiTester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\mi-primer-repositorio\MiTester\obj\Debug\net9.0\MiTester.AssemblyInfoInputs.cache
+C:\Users\Usuario\mi-primer-repositorio\MiTester\obj\Debug\net9.0\MiTester.AssemblyInfo.cs
+C:\Users\Usuario\mi-primer-repositorio\MiTester\obj\Debug\net9.0\MiTester.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\mi-primer-repositorio\MiTester\obj\Debug\net9.0\MiTester.sourcelink.json
+C:\Users\Usuario\mi-primer-repositorio\MiTester\obj\Debug\net9.0\MiTester.dll
+C:\Users\Usuario\mi-primer-repositorio\MiTester\obj\Debug\net9.0\refint\MiTester.dll
+C:\Users\Usuario\mi-primer-repositorio\MiTester\obj\Debug\net9.0\MiTester.pdb
+C:\Users\Usuario\mi-primer-repositorio\MiTester\obj\Debug\net9.0\MiTester.genruntimeconfig.cache
+C:\Users\Usuario\mi-primer-repositorio\MiTester\obj\Debug\net9.0\ref\MiTester.dll
